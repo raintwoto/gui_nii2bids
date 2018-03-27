@@ -1,0 +1,5 @@
+# Project and project_path gives you output path
+# Types of task are the tasks in your experiment. 'Anat' and 'None' is the default name for 
+# Anatomical scans and other scans(not included in the analysis, e.g. the head localizer) 
+project_path="/project/3018035.03/fMRI/Popout"
+type_of_task_text = "'Anat','task','pRF','None'"
