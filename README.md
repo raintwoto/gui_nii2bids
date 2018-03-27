@@ -8,6 +8,7 @@ Pre-1. Scan and get your fMRI data.
         
 1.  Preprocessing
     * Using dcm2nii (or dcm2niigui) to convert your fMRI images to nii file
+![gif2](https://user-images.githubusercontent.com/2226218/37960779-c7700654-31b6-11e8-82f3-643aa82ca4ab.gif)
 
 2.  Set-up
     * Download the zip file or git clone the repo
