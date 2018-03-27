@@ -101,7 +101,7 @@ for i in range(len(fmri_filetype)):
         if not os.path.exists(project_path+'/data/sub-'+subj_num+'/anat'):
             os.makedirs(project_path+'/data/sub-'+subj_num+'/anat')
         copy2(fmri_filedir[i], project_path+'/data/sub-' +
-              subj_num+'/anat/'+'sub-'+subj_num+'_anat.nii.gz')
+              subj_num+'/anat/'+'sub-'+subj_num+'_T1w.nii.gz')
     elif fmri_filetype[i] == 'None':
         1
     else:
