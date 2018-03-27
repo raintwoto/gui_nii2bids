@@ -25,3 +25,4 @@ Pre-1. Scan and get your fMRI data.
 
 
 4. And check your folder
+![gif3](https://user-images.githubusercontent.com/2226218/37960929-2f07bf64-31b7-11e8-8ca6-bb78203a500a.gif)
