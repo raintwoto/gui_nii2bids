@@ -18,8 +18,9 @@ Pre-1. Scan and get your fMRI data.
         *  Types of task are the tasks in your experiment. 'Anat' and 'None' is the default name for Anatomical scans and other scans(not included in the analysis, e.g. the head localizer) 
         <img width="315" alt="nii2bids" src="https://user-images.githubusercontent.com/2226218/37958721-81beaf3e-31b1-11e8-9c80-8d04b585aa13.png">
         
-3. Run the code
-    * In Linux, you can just run /bin/gui_nii2bids
+3. Run the bin
+    * give execution permission to gui_nii2bids: chmod +x ./bin/gui_nii2bids
+    * In Linux, you can just run ./bin/gui_nii2bids
     
 ![gif](https://user-images.githubusercontent.com/2226218/37960476-086a60ba-31b6-11e8-932a-f34db3c62d9a.gif)
 
